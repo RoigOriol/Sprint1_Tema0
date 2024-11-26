@@ -1,2 +1,3 @@
 # Sprint1_Tema0
-Hola Rubén!
+¡Hola Rubén!
+¿Cómo estás?
